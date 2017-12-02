@@ -1,7 +1,7 @@
 # main compiler
 CXX := gcc
 
-TARGET1 := Watering-Edit13
+TARGET1 := Watering
 
 
 all: $(TARGET1)
